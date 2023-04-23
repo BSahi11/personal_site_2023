@@ -1,0 +1,81 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Rubik', sans-serif;
+  }
+  
+  h1 {  
+   font-size: 315%;
+   margin-top: 0;
+   font-family: 'Sacramento', cursive;
+   
+  }
+  
+  h2 {
+      font-size: 100%;
+      font-family: 'Montserrat', sans-serif;
+  }
+  
+  h3 {
+      font-family: 'Montserrat', sans-serif;
+  }
+  
+  .top-container {
+      background-color: #DDFFBB;
+      padding-bottom: 70px;
+  }
+  
+  .middle-container {
+      background-color: rgb(201, 201, 167);
+  }
+  
+  .bottom-container {
+      background-color: #C7E980;
+      padding-top: 40px;
+      padding-bottom: 40px;
+  }
+  
+  .profile {
+      width: 50%;
+      margin: 1px auto 1px auto;
+      text-align: left;
+      line-height: 1.5;
+  }
+  
+  .First-Journey {
+      width: 50%;
+      margin: 1px auto 1px auto;
+      text-align: right;
+      line-height: 1.5;
+  }
+  
+  .Second-Journey {
+      width: 50%;
+      margin: 1px auto 1px auto;
+      text-align: left;
+      line-height: 1.5;
+  }
+  
+  .Third-Journey {
+      width: 50%;
+      margin: 1px auto 1px auto;
+      text-align: right;
+      line-height: 1.5;
+  }
+  
+  .Last-section {
+      width: 50%;
+      margin: 5px auto 5px auto;
+      line-height: 1.5;
+  }
+  
+  .top-birds  {
+      position: absolute;
+      right: 300px;
+      top: 80px;
+  }
+  .bottom-birds  {
+      position: absolute;
+      left: 300px;
+      bottom: 300px;
+  }
